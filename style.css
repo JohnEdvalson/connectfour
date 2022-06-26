@@ -108,3 +108,13 @@ button {
 #new-game-button {
   margin-top: 0;
 }
+
+#player-one-setup label {
+  font-weight: bold;
+  color: red;
+}
+
+#player-two-setup label {
+  font-weight: bold;
+  color: gold;
+}
